@@ -1,0 +1,5 @@
+{
+  "name": "SplitSmart",
+  "description": "A smart bill splitting app that parses receipts and uses an AI chat interface to assign costs to people.",
+  "requestFramePermissions": []
+}
